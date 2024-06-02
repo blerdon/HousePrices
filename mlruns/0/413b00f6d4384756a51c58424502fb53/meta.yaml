@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Science%20des%20donn%C3%A9es/projet/mlruns/0/413b00f6d4384756a51c58424502fb53/artifacts
+end_time: 1717275749644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 413b00f6d4384756a51c58424502fb53
+run_name: XGBoost Model
+run_uuid: 413b00f6d4384756a51c58424502fb53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717275747035
+status: 4
+tags: []
+user_id: blerdon
